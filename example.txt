@@ -6,4 +6,8 @@ My Grocery List
 - Butter
 - Sugar
 - Lemons
+<<<<<<< HEAD
 blah blah blah
+=======
+ a;lskdjfiawe;oivanafllvodmz.e;oiwgr;eofjio;k
+>>>>>>> 512f5900c7ca2231bf94f6563ced37c0870a1d74
